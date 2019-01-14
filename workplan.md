@@ -6,7 +6,8 @@
 | Project | Code Manager | Upload Date | Details|
 | :---    |     :---     |   :--- |    :--- |
 | ctctools  | Folkes   | Jan 31, 2019   | R package on github, easy migration 
-|       |      |       |
+| DGM | Wor | Jan 31, 2019 | workplan and model questions as md files. no code
+|     |     |              |
 
 
 | Left-aligned | Center-aligned | Right-aligned |
