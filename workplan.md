@@ -10,6 +10,9 @@
 |     |     |              |
 
 
+
+This is a table template:
+
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
