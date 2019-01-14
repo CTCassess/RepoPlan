@@ -1,7 +1,6 @@
 * evaluate pros & cons of the two platforms (github, gitlab)
 	 + <https://www.youtube.com/watch?v=s8DCpG1PeaU>
 	 + <https://usersnap.com/blog/gitlab-github/>
-	 + <https://hackernoon.com/github-vs-gitlab-which-is-better-for-open-source-projects-31c45d464be0>
 	 + <https://about.gitlab.com/2017/09/11/comparing-confusing-terms-in-github-bitbucket-and-gitlab/>
 	 + Using devtools to install an R package held in a private project (repo):
 	 	<https://stackoverflow.com/questions/27319207/installing-non-public-packages-from-gitlab-using-devtoolsinstall-git>
