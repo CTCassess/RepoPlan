@@ -3,6 +3,8 @@
 	 + <https://usersnap.com/blog/gitlab-github/>
 	 + <https://hackernoon.com/github-vs-gitlab-which-is-better-for-open-source-projects-31c45d464be0>
 	 + <https://about.gitlab.com/2017/09/11/comparing-confusing-terms-in-github-bitbucket-and-gitlab/>
+	 + Using devtools to install an R package held in a private project (repo):
+	 	<https://stackoverflow.com/questions/27319207/installing-non-public-packages-from-gitlab-using-devtoolsinstall-git>
 	 
 * come to an agreement on what platform we wish to commit to
 * come to an agreement on what code we wish to store as repositories
