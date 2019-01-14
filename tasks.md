@@ -2,6 +2,7 @@
 	 + <https://www.youtube.com/watch?v=s8DCpG1PeaU>
 	 + <https://usersnap.com/blog/gitlab-github/>
 	 + <https://hackernoon.com/github-vs-gitlab-which-is-better-for-open-source-projects-31c45d464be0>
+	 + <https://about.gitlab.com/2017/09/11/comparing-confusing-terms-in-github-bitbucket-and-gitlab/>
 	 
 * come to an agreement on what platform we wish to commit to
 * come to an agreement on what code we wish to store as repositories
