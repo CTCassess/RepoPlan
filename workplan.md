@@ -5,9 +5,11 @@
 
 | Project | Code Manager | Upload Date | Details|
 | :---    |     :---     |   :--- |    :--- |
+| RepoPlan  | Folkes   | Jan 25, 2019   | multiple .md files defining repository workplan. easy migration 
 | ctctools  | Folkes   | Jan 31, 2019   | R package on github, easy migration 
 | DGM | Wor | Jan 31, 2019 | workplan and model questions as md files. no code
-|     |     |              |
+| ERAR | Wor  | Jan 31, 2019   | R code in multile .R files. Not a package
+|   |    |    |
 
 
 
