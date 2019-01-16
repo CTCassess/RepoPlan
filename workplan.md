@@ -10,6 +10,7 @@
 	     
 * identify each person responsible to push particular code (which may not be the most recent version, but the last agreed-upon working version).
 * Set timelines that each project should be established on host server.
+* Set .gitignore file templates to exclude unnecessary files derived from R, tex, Rmd, md and vb (especially vb).
 
 <!--- this is a comment --->
 
